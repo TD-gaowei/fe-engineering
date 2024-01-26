@@ -8,7 +8,7 @@
 
 ## EditorConfig
 
-EditorConfig 有助于跨不同编辑器和 IDE 处理同一项目的多个开发人员保持一致的编码风格。
+[EditorConfig](https://editorconfig.org/) 有助于跨不同编辑器和 IDE 处理同一项目的多个开发人员保持一致的编码风格。
 
 ## Prettier
 
